@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'techreviewproj.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'techprojectdb',
+        'NAME': 'techreviewdb',
         'USER' : 'postgres',
         'PASSWORD': 'P@ssw0rd1',
         'HOST' :'localhost',
